@@ -1,4 +1,4 @@
 # GeneticAlgorithmTest
 Genetic algorithm with smart rockets and p5.js 
 
-![Example](geneticAlgDemo.gig)
+![](https://github.com/GeneticAlgorithmTest/geneticAlgDemo.gif)
