@@ -77,8 +77,6 @@ r[i]=new rocket(childdna);
 }
     
 
-
-
 }
 
 class DNA{
